@@ -1,5 +1,7 @@
 # tdbc / toadback
 
+[![Continuous Integration](https://github.com/cvdg/tdbc/actions/workflows/python-package.yml/badge.svg)](https://github.com/cvdg/tdbc/actions/workflows/python-package.yml)
+
 ## pdm
 
 ```shell
