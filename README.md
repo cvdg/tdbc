@@ -16,8 +16,17 @@ $ cd ${PRJ_DIR}
 $ pdm init
 $ git init
 $ git add -A
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:cvdg/${PRJ}.git
-git push -u origin main
+$ git commit -m "first commit"
+$ git branch -M main
+$ git remote add origin git@github.com:cvdg/${PRJ}.git
+$ git push -u origin main
+```
+
+## Develop
+
+```shell
+$ git checkout ...
+$ cd ${PRJ}
+$ pdm create venv
+$ pdm install
 ```
