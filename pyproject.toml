@@ -17,6 +17,7 @@ classifiers = [
 
 
 dependencies = [
+    "duckdb>=0.9.1",
 ]
 requires-python = ">=3.10"
 readme = "README.md"
